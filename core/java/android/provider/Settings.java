@@ -3693,6 +3693,12 @@ public final class Settings {
         public static final String STATUSBAR_BATTERY_BAR_THICKNESS = "statusbar_battery_bar_thickness";
 
         /**
+         * Whether to show Brightness Icon On Brightness Slider
+         * @hide
+         */
+        public static final String QS_SHOW_BRIGHTNESS_ICON = "qs_show_brightness_icon";
+
+	/**
          * @hide
          */
         public static final String STATUSBAR_BATTERY_BAR_STYLE = "statusbar_battery_bar_style";
